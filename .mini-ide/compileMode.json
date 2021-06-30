@@ -1,0 +1,8 @@
+{
+  "modes": [
+    {
+      "title": "1",
+      "page": "pages/luckDraw/index"
+    }
+  ]
+}
